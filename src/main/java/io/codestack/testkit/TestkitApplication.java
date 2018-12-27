@@ -9,6 +9,5 @@ public class TestkitApplication {
     public static void main(String[] args) {
         SpringApplication.run(TestkitApplication.class, args);
     }
-
 }
 
