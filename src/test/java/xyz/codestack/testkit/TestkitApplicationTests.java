@@ -1,4 +1,4 @@
-package io.codestack.testkit;
+package xyz.codestack.testkit;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

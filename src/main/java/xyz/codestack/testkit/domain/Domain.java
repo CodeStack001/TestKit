@@ -1,7 +1,4 @@
-package io.codestack.testkit.domain;
-
-import io.codestack.testkit.domain.Method;
-import io.codestack.testkit.domain.Result;
+package xyz.codestack.testkit.domain;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
-package io.codestack.testkit.controller;
+package xyz.codestack.testkit.controller;
 
 import com.alibaba.fastjson.JSON;
-import io.codestack.testkit.domain.Domain;
+import xyz.codestack.testkit.domain.Domain;
 import org.springframework.core.MethodParameter;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;

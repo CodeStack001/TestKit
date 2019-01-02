@@ -1,4 +1,4 @@
-package io.codestack.testkit;
+package xyz.codestack.testkit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
