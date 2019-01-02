@@ -1,4 +1,4 @@
-package io.codestack.testkit;
+package io.codestack.testkit.controller;
 
 import com.alibaba.fastjson.JSON;
 import io.codestack.testkit.domain.Domain;
